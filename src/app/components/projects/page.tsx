@@ -73,7 +73,38 @@ const Projects = () => {
                 </p>
               </div>
             </div>
+            <div className="xl:w-1/4 md:w-1/2 p-4">
+              <div className="bg-gray-100 p-6 rounded-lg">
+                <h3 className="tracking-widest text-blue-500 text-xs font-medium title-font">
+                  Full Stack
+                </h3>
+                <h2 className="text-lg text-gray-900 hover:text-blue-300 font-medium title-font mb-4">
+                  <a href="https://quarter2-final-hackathon-day4-1lxd.vercel.app/">
+                    Pizza Run
+                  </a>
+                </h2>
+                <p className="leading-relaxed text-base">
+                  A fun full stack Q-Commerce web app for a restursant.
+                </p>
+              </div>
+            </div>
           </div>
+          <div className="flex flex-wrap -m-4">
+            <div className="xl:w-1/4 md:w-1/2 p-4">
+                <div className="bg-gray-100 p-6 rounded-lg">
+                  <h3 className="tracking-widest text-blue-500 text-xs font-medium title-font">
+                    Front end && UI/UX
+                  </h3>
+                  <h2 className="text-lg text-gray-900 hover:text-blue-300 font-medium title-font mb-4">
+                    <a href="">Rivayati Andaz</a>
+                  </h2>
+                  <p className="leading-relaxed text-base">
+                    A Rental E-commerce web app for a brand name 
+                    Rivayati Andaz for for Furnture.
+                  </p>
+                </div>
+              </div>
+            </div>
           <div className="flex flex-wrap -m-4">
             <div className="xl:w-1/4 md:w-1/2 p-4">
               <div className="bg-gray-100 p-6 rounded-lg">
