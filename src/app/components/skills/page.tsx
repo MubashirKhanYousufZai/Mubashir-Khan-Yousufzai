@@ -64,7 +64,7 @@ const Skills = () => {
                     NODE.JS
                 </h2>
                 <p className="leading-relaxed text-base">
-                    (Learning)
+                    (Still Learning)
                 </p>
                 </div>
             </div>
