@@ -1,13 +1,18 @@
 import type { Config } from "tailwindcss";
 
 const config: Config = {
+<<<<<<< HEAD
     darkMode: ["class"],
     content: [
+=======
+  content: [
+>>>>>>> 92e6d749b1571c6998789b48dd7272fe76bbe574
     "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
     "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
     "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
+<<<<<<< HEAD
   	extend: {
   		colors: {
   			background: 'hsl(var(--background))',
@@ -59,5 +64,15 @@ const config: Config = {
   	}
   },
   plugins: [require("tailwindcss-animate")],
+=======
+    extend: {
+      colors: {
+        background: "var(--background)",
+        foreground: "var(--foreground)",
+      },
+    },
+  },
+  plugins: [],
+>>>>>>> 92e6d749b1571c6998789b48dd7272fe76bbe574
 };
 export default config;

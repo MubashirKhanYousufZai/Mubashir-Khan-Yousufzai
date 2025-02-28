@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "new-portfolio",
+=======
+  "name": "project-10",
+>>>>>>> 92e6d749b1571c6998789b48dd7272fe76bbe574
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +13,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+<<<<<<< HEAD
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "emailjs-com": "^3.2.0",
@@ -20,6 +25,15 @@
     "react-icons": "^5.5.0",
     "tailwind-merge": "^3.0.2",
     "tailwindcss-animate": "^1.0.7"
+=======
+    "emailjs-com": "^3.2.0",
+    "framer-motion": "^12.4.2",
+    "next": "^14.2.23",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^5.4.0",
+    "typewriter-effect": "^2.21.0"
+>>>>>>> 92e6d749b1571c6998789b48dd7272fe76bbe574
   },
   "devDependencies": {
     "@types/node": "^20",
